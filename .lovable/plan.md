@@ -1,6 +1,6 @@
 
 
-# Shahid Patel — Professional Engineering Portfolio
+# Gauresh Rangaiyan — Professional Engineering Portfolio
 
 A high-end, authoritative portfolio website for a Civil, Structural, Safety & Quality Engineer. No backend required — this is a purely frontend, content-rich static site.
 
@@ -18,13 +18,13 @@ A high-end, authoritative portfolio website for a Civil, Structural, Safety & Qu
 ## 1. Sticky Header / Navigation
 
 - Minimalist monogram logo: **SP**
-- Menu: Projects · Tools & Technologies · Expertise · Services · Codes & Certifications · Education · Contact
+- Menu: Experience · Projects · Skills · Education · Contact
 - CTA button (top right): "Discuss a Project"
 - Mobile hamburger menu with smooth slide-in
 
 ## 2. Hero Section
 
-- **Left side**: Headline — "Civil · Structural · Safety · Quality Engineering" with sub-text emphasizing multi-disciplinary capability, risk-aware design, construction-to-compliance lifecycle, and Canadian standards alignment (MASc, P.Eng. Candidate via PEGNL)
+- **Left side**: Headline — "Aerospace · Mechanical · Structures · Robotics Hardware
 - **Right side**: Professional headshot (the uploaded graduation photo)
 - Two CTA buttons: "View Projects" (primary) · "Services" (secondary)
 - No long bio — let credentials speak
