@@ -2,7 +2,7 @@
 
 # Gauresh Rangaiyan — Professional Engineering Portfolio
 
-A high-end, authoritative portfolio website for a Civil, Structural, Safety & Quality Engineer. No backend required — this is a purely frontend, content-rich static site.
+A high-end, authoritative portfolio website for a Mechanical Engineer. No backend required — this is a purely frontend, content-rich static site.
 
 ---
 
