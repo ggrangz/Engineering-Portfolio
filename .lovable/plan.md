@@ -33,12 +33,9 @@ A high-end, authoritative portfolio website for a Civil, Structural, Safety & Qu
 
 Grouped into 6 categories with tool tiles (icon + name + one-line context):
 
-- **Design & Drafting**: AutoCAD, Revit, MicroStation
-- **Structural Analysis**: STAAD Pro, SAP2000, SAFE, ETABS, Tekla Structures
-- **Safety & Risk**: BowTieXP, PHA-Pro, FMEA Templates, RCFA Tools
-- **Quality & QA/QC**: ISO 55000 Frameworks, NDT Tools, Vibration Analyzers
-- **Construction & Project Controls**: Primavera P6, Bluebeam Revu, CMMS
-- **Data & Computation**: MATLAB, Advanced Excel, GeoStudio, PLAXIS
+- **Design & Drafting**: SolidWorks, Fusion 360, Onshape
+- **Structural Analysis**: ANSYS Mechanical
+- **Data & Computation**: Python, MATLAB, MS Office
 
 Smooth horizontal auto-scroll with pause-on-hover.
 
@@ -47,7 +44,7 @@ Smooth horizontal auto-scroll with pause-on-hover.
 Feature cards for 11 real projects from your portfolio, each with:
 - Placeholder construction feature image (you'll replace later)
 - Project type tag (Institutional / Healthcare / Industrial / Residential / Infrastructure)
-- Role label (e.g., "Lead Civil & Quality Engineer")
+- Role label (e.g., "Mechanical Engineer")
 - 3–4 bullet highlights covering structural scope, safety layer, quality/compliance, coordination
 - Tools used as small icon badges
 - CTA: "View Project Details"
@@ -78,16 +75,6 @@ Each project expands to a detail page with: Overview, Engineering Scope, Safety 
 - Canadian: NBCC 2020, CSA A23.3, CSA S16, Provincial Building Codes
 - Indian (cross-referenced): IS 456, IS 875, IS 1893, NBC India 2016
 - International: ASTM, ISO, NFPA, OSHA, WHMIS, PCI, CPCI
-
-**Certifications** — badge/card layout:
-- Basic First Aid/CPR C/AED (St. John Ambulance)
-- Confined Space Awareness (Canada Safety Training Centre)
-- Fall Arrest Protection
-- WHMIS Certification
-- Asbestos Awareness
-- Respiratory Training
-- WES Verified Academic Credentials
-- P.Eng. Licensure — Application via PEGNL (AIP58273)
 
 ## 6. Expertise Areas — 4-Column Grid
 
@@ -123,15 +110,14 @@ Clean white-background slides with quotation mark styling. Placeholder slots for
 ## 10. Education Highlights
 
 Concise, high-signal:
-- **MASc** — Safety & Risk Engineering, Memorial University of Newfoundland (2023–2025). Focus: Reliability analysis, QRA, system safety, SIS, NBCC/CSA codes
-- **B.Eng.** — Civil Engineering, Gujarat Technological University (2014–2017). WES Verified. Focus: Structural systems, construction management
-- **Diploma** — Civil Engineering Technology, Gujarat Technological University
+- **MS** — Mechanical Engineering, Texas A&M University (2026–2028). Focus: Robotics
+- **BS** — Aerospace Engineering, Texas A&M University (2022–2026). Minor: Mathematics
 
 ## 11. Footer — Strong CTA
 
 - Final message: "Interested in engineering collaboration, project review, or technical consultation?"
 - CTA: "Start a Conversation"
-- Contact: shahidp017@gmail.com · LinkedIn · St. John's, NL, Canada
+- Contact: gaureshrangoo@gmail.com · LinkedIn · College Station, TX, USA
 
 ---
 
